@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aswin-andro-959064b2/">
   <img align="left" alt="Aswin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/">
   <img align="left" alt="Aswin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
@@ -43,7 +43,7 @@ Hi, i'm [Aswin Andro], a passionate self-taught full stack web developer and a f
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswinandro&show_icons=true&locale=en&layout=compact" alt="aswinandro" /></p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" height="150" />
 
 **Languages and Tools:**  
 
@@ -55,3 +55,7 @@ Hi, i'm [Aswin Andro], a passionate self-taught full stack web developer and a f
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"></code>
 
+<a href="https://www.buymeacoffee.com/aswinandro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aswinandro&show_icons=true&theme=gotham" alt="aswinandro" />
+ -->
