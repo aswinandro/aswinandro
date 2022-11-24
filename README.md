@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aswin-andro-959064b2/">
   <img align="left" alt="Aswin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/artist/6mwYSgGq9MibgTfa88NY1p?si=1S-INf8CRDi7H618UQ3o7Q)/">
-  <img align="left" alt="Aswin's Spotify" width="22px" <i class="fab fa-spotify"></i> />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aswinandro.aswinandro)
 
