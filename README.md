@@ -45,6 +45,23 @@ Hi, i'm [Aswin Andro], a passionate self-taught full stack web developer and a f
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" height="150" />
 
+<table>
+  <tr>
+    <td>
+        <a href="http://www.github.com/emoran"><img src="https://github-readme-stats.vercel.app/api?username=emoran&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emoran's GitHub stats" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/emoran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emoran&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
+
+<a href="http://www.github.com/emoran"><img src="https://activity-graph.herokuapp.com/graph?username=emoran&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+<div width="100%" align="center"></div>
+
 **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
