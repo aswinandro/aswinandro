@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aswin-andro-959064b2/">
   <img align="left" alt="Aswin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/">
-  <img align="left" alt="Aswin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://open.spotify.com/artist/6mwYSgGq9MibgTfa88NY1p?si=1S-INf8CRDi7H618UQ3o7Q)/">
+  <img align="left" alt="Aswin's Spotify" width="22px" <i class="fab fa-spotify"></i> />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aswinandro.aswinandro)
@@ -45,6 +45,23 @@ Hi, i'm [Aswin Andro], a passionate self-taught full stack web developer and a f
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" height="150" />
 
+
+
+**Languages and Tools:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Adobe_ColdFusion_10_icon.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"></code>
+
+<a href="https://www.buymeacoffee.com/aswinandro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<br>
+<br>
+
 <table>
   <tr>
     <td>
@@ -62,17 +79,7 @@ Hi, i'm [Aswin Andro], a passionate self-taught full stack web developer and a f
 
 <div width="100%" align="center"></div>
 
-**Languages and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Adobe_ColdFusion_10_icon.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"></code>
-
-<a href="https://www.buymeacoffee.com/aswinandro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aswinandro&show_icons=true&theme=gotham" alt="aswinandro" />
  -->
