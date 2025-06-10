@@ -63,7 +63,8 @@ I'm a passionate and certified technologist specializing in **Node.js**, **Pytho
 
 - [LinkedIn](https://www.linkedin.com/in/aswinandro)  
 - [Twitter](https://twitter.com/aswinandro)  
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:aswin.knight@gmail.com)
+- [Whatsapp](https://wa.me/+919047505645)
 
 ---
 
