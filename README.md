@@ -7,12 +7,12 @@ I'm a passionate and certified technologist specializing in **Node.js**, **Pytho
 
 ## 🚀 About Me
 
-- 💻 **Backend Developer**: Node.js, Python (RPython), Apollo GraphQL
-- 🌐 **Web & Mobile Apps**: React.js, React Native, Web Application Development
-- ☁️ **Cloud Enthusiast**: AWS, Oracle Cloud Infrastructure, DevOps on Cloud
-- 🔧 **DevOps & SRE**: Automation, CI/CD, Infrastructure as Code, Monitoring, Site Reliability
-- 🛢️ **Databases**: MongoDB, MS SQL, SQL, NoSQL
-- 📦 **API Integration**: Mulesoft Developer Level 1
+- 💻 **Backend Developer**: Node.js, Python (RPython), Apollo GraphQL  
+- 🌐 **Web & Mobile Apps**: React.js, React Native, Web Application Development  
+- ☁️ **Cloud Enthusiast**: AWS, Oracle Cloud Infrastructure, DevOps on Cloud  
+- 🔧 **DevOps & SRE**: Automation, CI/CD, Infrastructure as Code, Monitoring, Site Reliability  
+- 🛢️ **Databases**: MongoDB, MS SQL, SQL, NoSQL  
+- 📦 **API Integration**: Mulesoft Developer Level 1  
 
 ---
 
@@ -20,42 +20,52 @@ I'm a passionate and certified technologist specializing in **Node.js**, **Pytho
 
 - 🏅 **Linux Foundation**
   - DevOps Engineer
-  - Site Reliability Engineer
+  - Site Reliability Engineer  
 - 🏅 **AWS**
   - Certified Cloud Practitioner
-  - DevOps Professional
+  - DevOps Professional  
 - 🏅 **Oracle**
-  - Cloud Infrastructure Architect Associate
+  - Cloud Infrastructure Architect Associate  
 - 🏅 **Apollo GraphQL**
-  - Certified Developer
+  - Certified Developer  
 - 🏅 **Mulesoft**
-  - Developer Level 1
+  - Developer Level 1  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category         | Technologies                                                 |
-|------------------|-------------------------------------------------------------|
-| **Languages**    | Node.js, Python, JavaScript, TypeScript                     |
-| **Frontend**     | React.js, React Native, HTML5, CSS3                         |
-| **Backend**      | Node.js (Express, REST, GraphQL), Apollo Server             |
-| **Databases**    | MongoDB, MS SQL, PostgreSQL, NoSQL                          |
-| **Cloud**        | AWS, Oracle Cloud, Docker, Kubernetes, Terraform            |
-| **DevOps**       | CI/CD, Jenkins, GitHub Actions, Ansible, SRE Practices      |
-| **Monitoring**   | Prometheus, Grafana, ELK Stack                              |
-| **API**          | Apollo GraphQL, Mulesoft                                    |
-| **Other**        | Git, Linux, Shell Scripting                                 |
+| Category       | Technologies                                                    |
+|----------------|------------------------------------------------------------------|
+| **Languages**  | Node.js, Python, JavaScript, TypeScript                         |
+| **Frontend**   | React.js, React Native, HTML5, CSS3                             |
+| **Backend**    | Node.js (Express, REST, GraphQL), Apollo Server, NestJS         |
+| **Databases**  | MongoDB, MS SQL, PostgreSQL, NoSQL                              |
+| **Cloud**      | AWS, Oracle Cloud, Docker, Kubernetes, Terraform                |
+| **DevOps**     | CI/CD, Jenkins, GitHub Actions, Ansible, SRE Practices          |
+| **Monitoring** | Prometheus, Grafana, ELK Stack                                  |
+| **API**        | Apollo GraphQL, Mulesoft                                        |
+| **Other**      | Git, Linux, Shell Scripting                                     |
+
+---
+
+## 📈 GitHub Stats & Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinandro&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=aswinandro&show_icons=true&theme=github_dark&count_private=true&hide=stars" alt="GitHub Stats" />
+</div>
 
 ---
 
 ## 📈 What I Do
 
-- Architect, build, and deploy web applications and APIs
-- Design and implement cloud-native solutions
-- Automate infrastructure and deployment pipelines
-- Ensure site reliability and optimal performance
-- Collaborate on open source and community projects
+- Architect, build, and deploy web applications and APIs  
+- Design and implement cloud-native solutions  
+- Automate infrastructure and deployment pipelines  
+- Ensure site reliability and optimal performance  
+- Collaborate on open source and community projects  
 
 ---
 
@@ -63,8 +73,8 @@ I'm a passionate and certified technologist specializing in **Node.js**, **Pytho
 
 - [LinkedIn](https://www.linkedin.com/in/aswinandro)  
 - [Twitter](https://twitter.com/aswinandro)  
-- [Email](mailto:aswin.knight@gmail.com)
-- [Whatsapp](https://wa.me/+919047505645)
+- [Email](mailto:aswin.knight@gmail.com)  
+- [WhatsApp](https://wa.me/+919047505645)  
 
 ---
 
