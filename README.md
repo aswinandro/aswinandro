@@ -51,12 +51,14 @@ I'm a passionate and certified technologist specializing in **Node.js**, **Pytho
 
 ## 📈 GitHub Stats & Languages
 
-<span align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinandro&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=aswinandro&show_icons=true&theme=github_dark&count_private=true&hide=stars" alt="GitHub Stats" />
-</span>
-
+<div align="center">
+  <span>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=aswinandro&show_icons=true&theme=github_dark&count_private=true&hide=stars" alt="GitHub Stats" />
+  </span>
+  <span>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinandro&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" />
+  </span>
+</div>
 ---
 
 ## 📈 What I Do
