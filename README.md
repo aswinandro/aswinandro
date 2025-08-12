@@ -22,10 +22,11 @@ I'm a passionate and certified technologist specializing in **Node.js**, **Pytho
   - DevOps Engineer
   - Site Reliability Engineer  
 - 🏅 **AWS**
-  - Certified Cloud Practitioner
-  - DevOps Professional  
+  - Certified Cloud Practitioner  
 - 🏅 **Oracle**
-  - Cloud Infrastructure Architect Associate  
+  - Cloud Infrastructure Architect Associate
+  - Cloud Infrastructure DevOps Professional
+  - Cloud Infrastructure DataScience Professional
 - 🏅 **Apollo GraphQL**
   - Certified Developer  
 - 🏅 **Mulesoft**
@@ -37,8 +38,8 @@ I'm a passionate and certified technologist specializing in **Node.js**, **Pytho
 
 | Category       | Technologies                                                    |
 |----------------|------------------------------------------------------------------|
-| **Languages**  | Node.js, Python, JavaScript, TypeScript                         |
-| **Frontend**   | React.js, React Native, HTML5, CSS3                             |
+| **Languages**  | Node.js, Nest.js, Python, JavaScript, TypeScript, Java          |
+| **Frontend**   | Nesxt.js, React.js, React Native, HTML5, CSS3                   |
 | **Backend**    | Node.js (Express, REST, GraphQL), Apollo Server, NestJS         |
 | **Databases**  | MongoDB, MS SQL, PostgreSQL, NoSQL                              |
 | **Cloud**      | AWS, Oracle Cloud, Docker, Kubernetes, Terraform                |
