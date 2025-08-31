@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Aswin Andro!
 
 Welcome to my GitHub profile!  
-I'm a passionate and certified technologist specializing in **Node.js**, **Python (RPython)**, Cloud, DevOps, and Site Reliability Engineering. I thrive on building resilient, scalable, and high-performing systems — from backend APIs to cloud-native deployments and web/mobile applications.
+I'm a passionate and certified technologist specializing in **Java** **Node.js**, **Python**, Cloud, DevOps, and Site Reliability Engineering. I thrive on building resilient, scalable, and high-performing systems — from backend APIs to cloud-native deployments and web/mobile applications.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Backend Developer**: Node.js, Python (RPython), Apollo GraphQL  
-- 🌐 **Web & Mobile Apps**: React.js, React Native, Web Application Development  
+- 💻 **Backend Developer**: Java, Node.js, Python, Apollo GraphQL  
+- 🌐 **Web & Mobile Apps**: React.js, Next.js React Native, Web Application Development  
 - ☁️ **Cloud Enthusiast**: AWS, Oracle Cloud Infrastructure, DevOps on Cloud  
 - 🔧 **DevOps & SRE**: Automation, CI/CD, Infrastructure as Code, Monitoring, Site Reliability  
 - 🛢️ **Databases**: MongoDB, MS SQL, SQL, NoSQL  
-- 📦 **API Integration**: Mulesoft Developer Level 1  
+- 📦 **API Integration**: Mulesoft Developer Level 1, KONG Gateway, WSO2
 
 ---
 
