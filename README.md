@@ -39,7 +39,7 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
 | Category       | Technologies                                                    |
 |----------------|------------------------------------------------------------------|
 | **Languages**  | Node.js, Nest.js, Python, JavaScript, TypeScript, Java          |
-| **Frontend**   | Nesxt.js, React.js, React Native, HTML5, CSS3                   |
+| **Frontend**   | Next.js, React.js, React Native, HTML5, CSS3, Tailwind          |
 | **Backend**    | Node.js (Express, REST, GraphQL), Apollo Server, NestJS         |
 | **Databases**  | MongoDB, MS SQL, PostgreSQL, NoSQL                              |
 | **Cloud**      | AWS, Oracle Cloud, Docker, Kubernetes, Terraform                |
