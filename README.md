@@ -9,7 +9,7 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
 
 - 💻 **Backend Developer**: Java, Node.js, Python, Apollo GraphQL  
 - 🌐 **Web & Mobile Apps**: React.js, Next.js React Native, Web Application Development  
-- ☁️ **Cloud Enthusiast**: AWS, Oracle Cloud Infrastructure, DevOps on Cloud  
+- ☁️ **Cloud Enthusiast**: Azure, AWS, Oracle Cloud Infrastructure, DevOps on Cloud  
 - 🔧 **DevOps & SRE**: Automation, CI/CD, Infrastructure as Code, Monitoring, Site Reliability  
 - 🛢️ **Databases**: MongoDB, MS SQL, SQL, NoSQL  
 - 📦 **API Integration**: Mulesoft Developer Level 1, KONG Gateway, WSO2
@@ -42,7 +42,7 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
 | **Frontend**   | Next.js, React.js, React Native, HTML5, CSS3, Tailwind          |
 | **Backend**    | Node.js (Express, REST, GraphQL), Apollo Server, NestJS         |
 | **Databases**  | MongoDB, MS SQL, PostgreSQL, NoSQL                              |
-| **Cloud**      | AWS, Oracle Cloud, Docker, Kubernetes, Terraform                |
+| **Cloud**      | Azure, AWS, Oracle Cloud, Docker, Kubernetes, Terraform                |
 | **DevOps**     | CI/CD, Jenkins, GitHub Actions, Ansible, SRE Practices          |
 | **Monitoring** | Prometheus, Grafana, ELK Stack                                  |
 | **API**        | Apollo GraphQL, Mulesoft                                        |
