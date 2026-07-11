@@ -54,9 +54,12 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
 
 ## 📈 GitHub Stats & Languages
 
-![](https://github-readme-stats.shion.dev/api?username=aswinandro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aswinandro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aswinandro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <span>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinandro&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" />
+  </span>
+</div>
+---
 
 ## 📈 What I Do
 
