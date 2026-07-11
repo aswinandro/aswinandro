@@ -77,7 +77,7 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
   </tr>
 </table>
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" width="50%">
 
@@ -90,7 +90,7 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
 - Collaborate on open source and community projects
 
   </td>
-  <td valign="top" width="50%">
+    <td valign="top" width="50%">
 
 ## 🌍 Let's Connect!
 
