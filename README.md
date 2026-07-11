@@ -16,7 +16,7 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
 
 ---
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
 
@@ -63,7 +63,7 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
 
 ## 📈 GitHub Stats & Languages
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <img src="https://github-readme-stats.shion.dev/api?username=aswinandro&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Aswin Andro GitHub stats" />
