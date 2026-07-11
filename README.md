@@ -16,6 +16,10 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ## 🎓 Certifications
 
 - 🏅 **Linux Foundation**
@@ -30,9 +34,10 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
 - 🏅 **Apollo GraphQL**
   - Certified Developer  
 - 🏅 **Mulesoft**
-  - Developer Level 1  
+  - Developer Level 1
 
----
+  </td>
+  <td valign="top" width="50%">
 
 ## 🛠️ Tech Stack
 
@@ -42,11 +47,15 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
 | **Frontend**   | Next.js, React.js, React Native, HTML5, CSS3, Tailwind          |
 | **Backend**    | Node.js (Express, REST, GraphQL), Apollo Server, NestJS         |
 | **Databases**  | MongoDB, MS SQL, PostgreSQL, NoSQL                              |
-| **Cloud**      | Azure, AWS, Oracle Cloud, Docker, Kubernetes, Terraform                |
+| **Cloud**      | Azure, AWS, Oracle Cloud, Docker, Kubernetes, Terraform         |
 | **DevOps**     | CI/CD, Jenkins, GitHub Actions, Ansible, SRE Practices          |
 | **Monitoring** | Prometheus, Grafana, ELK Stack                                  |
 | **API**        | Apollo GraphQL, Mulesoft                                        |
 | **Other**      | Git, Linux, Shell Scripting                                     |
+
+  </td>
+  </tr>
+</table>
 
 ---
 
