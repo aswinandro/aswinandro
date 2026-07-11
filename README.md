@@ -77,22 +77,31 @@ I'm a passionate and certified technologist specializing in **Java** **Node.js**
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ## 📈 What I Do
 
 - Architect, build, and deploy web applications and APIs  
 - Design and implement cloud-native solutions  
 - Automate infrastructure and deployment pipelines  
 - Ensure site reliability and optimal performance  
-- Collaborate on open source and community projects  
+- Collaborate on open source and community projects
 
----
+  </td>
+  <td valign="top" width="50%">
 
 ## 🌍 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/aswinandro)  
 - [Twitter](https://twitter.com/aswinandro)  
 - [Email](mailto:aswin.knight@gmail.com)  
-- [WhatsApp](https://wa.me/+919047505645)  
+- [WhatsApp](https://wa.me/+919047505645)
+
+  </td>
+  </tr>
+</table>
 
 ---
 
